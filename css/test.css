@@ -1,24 +1,21 @@
-<style type="text/css">
-	h1{
-		font-size: 30px;
-		color: deeppink;		
-	}
+body{
+	background-color: lightgrey;
+}
 
-	h2{
-		font-size: 20px;
-		color: pink;
-	}
+h1{
+	font-size: 30px;
+	color: deeppink;		
+}
 
-	.big{
-		font-size: 60px;
-	}
+h2{
+	font-size: 20px;
+	color: pink;
+}
 
-	.uppercase{
-		text-transform: uppercase;
-	}
+.big{
+	font-size: 60px;
+}
 
-	h1 span{
-		color: violet;
-	}
-
-</style>
+.uppercase{
+	text-transform: uppercase;
+}
